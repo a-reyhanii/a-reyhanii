@@ -1,6 +1,6 @@
 
 
-# 🧠 Web Application Security Specialist | Offensive Security | AppSec | Bug Bounty
+# 🧠 Web Application Security Specialist Offensive Security AppSec Bug Bounty
 
 ## 👋 About Me
 
