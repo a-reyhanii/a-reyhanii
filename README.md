@@ -1,4 +1,4 @@
----
+
 
 # 🧠 Web Application Security Specialist | Offensive Security | AppSec | Bug Bounty
 
@@ -58,4 +58,3 @@ I believe the best security work comes from empathy: understanding how developer
 - 🧵 Twitter/X: [@yourhandle]  
 - 🌐 Blog: [yourblog.dev] — writeups, tools, and research  
 
----
