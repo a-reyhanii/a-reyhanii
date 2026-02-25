@@ -4,9 +4,8 @@
 
 ## 👋 About Me
 
-I’m a web security specialist with a deep focus on offensive security, application-layer vulnerabilities, and real-world exploitation. My work revolves around understanding how modern web applications break — and helping teams build them back stronger.
+I’m a web security specialist 
 
-From dissecting authentication flows to chaining obscure bugs into critical impact, I approach every target with a mix of curiosity, precision, and adversarial thinking. Whether it’s a single-page app with complex client-side logic or a sprawling microservices architecture, I enjoy peeling back the layers to find what others miss.
 
 ## 🛠️ Core Competencies
 
