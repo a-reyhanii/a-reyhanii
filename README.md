@@ -6,6 +6,5 @@
 
 I’m a web security specialist 
 - 📧 Email: [Reyhane96271@gmail.com](mailto:Reyhane96271@gmail.com)  
-- 🐞 Bug Bounty: HackerOne / Bugcrowd / Intigriti (DM for profile)  
    
 
